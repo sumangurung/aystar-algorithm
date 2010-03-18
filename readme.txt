@@ -1,0 +1,1 @@
+This is the aystar algorithm to solve the 8 puzzle problem. Given a solvable problem, it finds the optimal path using the aystar algorithm and prints the optimal path.
